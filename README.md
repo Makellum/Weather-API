@@ -5,3 +5,4 @@
 * **_OR_**
 * Create an app using any third party API
 * Add styling to your app 
+<img src="https://github.com/Makellum/Weather-API/blob/master/weatherapi.gif"><br>
